@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://gitee.com/mirrors/erpnext.git",
+        "url": "https://github.com/frappe/erpnext.git",
         "branch": "version-15"
     },
     {
