@@ -1,0 +1,34 @@
+[
+    {
+        "url": "https://gitee.com/mirrors/erpnext.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/frappe/hrms.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/frappe/payments.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/frappe/lending.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/frappe/education.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/frappe/crm.git",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/frappe/print_designer.git",
+        "branch": "main"
+    },
+    {
+        "url": "https://gitee.com/yuzelin/erpnext_china.git",
+        "branch": "master"
+    }
+]
