@@ -15,4 +15,4 @@ sudo docker compose -p frappe exec backend bench new-site \
   --install-app erpnext \
   --set-default frontend
 
-sudo docker compose -p frappe exec backend bench --site frontend install-app hrms payments lending education crm print_designer erpnext_china
+# sudo docker compose -p frappe exec backend bench --site frontend install-app hrms healthcare lending education erpnext_china
