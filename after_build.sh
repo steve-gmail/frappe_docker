@@ -13,6 +13,6 @@ sudo docker compose -p frappe exec backend bench new-site \
   --db-root-username=root \
   --db-root-password=root123 \
   --install-app erpnext \
-  --set-default frontend
+  --set-default mysite
 
-# sudo docker compose -p frappe exec backend bench --site frontend install-app hrms healthcare lending education erpnext_china
+# sudo docker compose -p frappe exec backend bench --site mysite install-app hrms healthcare lending education erpnext_china
